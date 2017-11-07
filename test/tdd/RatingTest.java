@@ -8,7 +8,7 @@ package tdd;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import tdddemo.Rating;
-
+//ghjk
 /**
  *
  * @author Pham Trong Nghia
