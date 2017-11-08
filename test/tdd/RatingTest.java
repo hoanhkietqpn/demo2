@@ -22,7 +22,7 @@ public class RatingTest {
         assertEquals("Average", Rating.Rating(5));
         assertEquals("Tre trau!", Rating.Rating(4));
         assertEquals("Invalid Grade", Rating.Rating(40));
-        assertEquals("Invalid Grade", Rating.Rating(-5));
+        assertEquals("Invalid Grade!", Rating.Rating(-5));
     }
     
     //day la code dung de test code chinh
